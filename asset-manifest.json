@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/My_resume/static/css/main.8a12a587.css",
+    "main.js": "/My_resume/static/js/main.eaa0fc4c.js",
+    "static/media/welseyProfile.png": "/My_resume/static/media/welseyProfile.9aacabc9740536792e82.png",
+    "static/media/welsey_roberts_CV.pdf": "/My_resume/static/media/welsey_roberts_CV.8b9760ccd50bbb082475.pdf",
+    "static/media/back-pattern2.png": "/My_resume/static/media/back-pattern2.684928c6dd791afe1081.png",
+    "index.html": "/My_resume/index.html",
+    "main.8a12a587.css.map": "/My_resume/static/css/main.8a12a587.css.map",
+    "main.eaa0fc4c.js.map": "/My_resume/static/js/main.eaa0fc4c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8a12a587.css",
+    "static/js/main.eaa0fc4c.js"
+  ]
+}
