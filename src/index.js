@@ -8,11 +8,11 @@ import Home from './routes/Home';
 import About from './routes/About';
 const router = createBrowserRouter([
   {
-    path: "/",
+    path: process.env.PUBLIC_URL + "/",
     element:<Home/>
   },
   {
-    path: "/about",
+    path: process.env.PUBLIC_URL + "/about",
     element:<About/>
   }
 ])
